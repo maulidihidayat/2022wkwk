@@ -1,0 +1,18 @@
+
+body{
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+thead{
+    background-color: white;
+
+}
+tbody{
+    background-color: white;
+   
+}
